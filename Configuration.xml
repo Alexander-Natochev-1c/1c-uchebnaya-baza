@@ -250,6 +250,7 @@
 			<Catalog>Товары</Catalog>
 			<Catalog>ЕдиницыИзмерения</Catalog>
 			<Catalog>Поставщики</Catalog>
+			<Catalog>Склады</Catalog>
 			<Document>ПриходТовара</Document>
 			<Enum>ВидыНоменклатуры</Enum>
 		</ChildObjects>
