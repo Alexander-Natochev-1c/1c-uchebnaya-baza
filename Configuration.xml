@@ -254,6 +254,7 @@
 			<Document>ПриходТовара</Document>
 			<Document>РасходТовара</Document>
 			<Document>Перемещение</Document>
+			<Document>СписаниеТовара</Document>
 			<Enum>ВидыНоменклатуры</Enum>
 			<InformationRegister>ЦеныТоваров</InformationRegister>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
