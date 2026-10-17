@@ -251,10 +251,12 @@
 			<Catalog>ЕдиницыИзмерения</Catalog>
 			<Catalog>Поставщики</Catalog>
 			<Catalog>Склады</Catalog>
+			<Catalog>Клиенты</Catalog>
 			<Document>ПриходТовара</Document>
 			<Document>РасходТовара</Document>
 			<Document>Перемещение</Document>
 			<Document>СписаниеТовара</Document>
+			<Document>ВозвратОтПокупателя</Document>
 			<Enum>ВидыНоменклатуры</Enum>
 			<InformationRegister>ЦеныТоваров</InformationRegister>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
