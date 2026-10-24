@@ -62,13 +62,13 @@
 			<Metadata name="Document.РасходТовара.Attribute.Склад" id="fbc3cb69-6c33-4c13-b8d9-4aff8f456786"/>
 		</Metadata>
 		<Metadata name="Document.РасходТовара.ObjectModule" id="bba69b9f-7a5e-4f9e-b1c8-03c8e165a70d.0" configVersion="2cad5fab4e1df04e8d2e4a223f08946900000000"/>
-		<Metadata name="Document.СписаниеТовара" id="771fee5b-54d2-4157-b0b4-c5a19ae5685c" configVersion="d5b07fdf18b11f4ab2b6fff31365a95500000000">
+		<Metadata name="Document.СписаниеТовара" id="771fee5b-54d2-4157-b0b4-c5a19ae5685c" configVersion="de8a04df66eb124f9db02cdc73ade30f00000000">
 			<Metadata name="Document.СписаниеТовара.TabularSection.Товары.Attribute.Количество" id="44fb521b-204e-470f-aecf-806003c76d89"/>
 			<Metadata name="Document.СписаниеТовара.TabularSection.Товары" id="48cc5816-064e-4bd2-83cb-8ecfd605fb42"/>
 			<Metadata name="Document.СписаниеТовара.Attribute.Склад" id="4cba67ae-c5fc-4c8e-b294-f51ee4d8628b"/>
 			<Metadata name="Document.СписаниеТовара.TabularSection.Товары.Attribute.Товар" id="b533f4f2-2ace-4994-9030-e4eb614fdd0c"/>
 		</Metadata>
-		<Metadata name="Document.СписаниеТовара.ObjectModule" id="771fee5b-54d2-4157-b0b4-c5a19ae5685c.0" configVersion="f2021c5e926fca4db6684ca25b6402a400000000"/>
+		<Metadata name="Document.СписаниеТовара.ObjectModule" id="771fee5b-54d2-4157-b0b4-c5a19ae5685c.0" configVersion="2dc6316e7516144a950108091ec7382a00000000"/>
 		<Metadata name="Enum.ВидыНоменклатуры" id="d51a2be3-6c32-441a-b88d-d5a8734b0fd5" configVersion="76e10086ad6bbb478ea19812b3798f4e00000000">
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Товар" id="366c3d92-c0b1-40fb-a27c-dabdf6ad0d7d"/>
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Услуга" id="de076acc-b35f-4867-9b49-ee92ea568d04"/>
