@@ -20,7 +20,7 @@
 			<Metadata name="Catalog.Товары.Attribute.Артикул" id="cddfb63c-19d1-48a5-b29a-78dd90d2f66c"/>
 		</Metadata>
 		<Metadata name="Catalog.Товары.ObjectModule" id="ba00aad6-920d-4bad-aee3-b3c9b732ad66.0" configVersion="92e3eef2ee8381478d5e0375d87ecbfc00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="ba4eaee4-444d-4a8a-b75d-ada0b4912e47" configVersion="b28569765bcfb749b98adb2b9c15f58300000000"/>
+		<Metadata name="Configuration.Конфигурация" id="ba4eaee4-444d-4a8a-b75d-ada0b4912e47" configVersion="7f6208cb15b37b42ad3f0feba12a34f500000000"/>
 		<Metadata name="Constant.ИспользоватьДоставку" id="8f4ab122-39d3-4f58-abdc-21af856c3407" configVersion="3c72248bac94e5428d1a825b848f3ea800000000"/>
 		<Metadata name="Constant.НазваниеОрганизации" id="19ef0f6e-ed4a-414d-b0bf-e961273ec6a3" configVersion="b6054e4ba00cd9429421a4c7dd9743bf00000000"/>
 		<Metadata name="DataProcessor.УчебныеЗапросы" id="d97f9f3c-9043-4392-99f7-ee446da134c4" configVersion="44122ba27bc0794dbbffdf29af8c561a00000000"/>
@@ -81,5 +81,8 @@
 			<Metadata name="InformationRegister.ЦеныТоваров.Resource.Цена" id="d009cd43-41b7-4298-b860-6e8922fcc069"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="07b04489-1fbb-4b1c-bfee-89b3b90501e3" configVersion="8151e477c7f6f4469326e5dcb2767a0a00000000"/>
+		<Metadata name="Report.ОтчетОстаткиТоваров" id="db9fc9f9-9d48-4fc5-997d-6a8b7819dbef" configVersion="a61d66e95d585e4aa1774ad36fff760500000000"/>
+		<Metadata name="Report.ОтчетОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных" id="fee07e97-caa3-4070-95ab-5a0e3e889764" configVersion="f3436801dba70646a93cdef6c5cbf7d600000000"/>
+		<Metadata name="Report.ОтчетОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="fee07e97-caa3-4070-95ab-5a0e3e889764.0" configVersion="7cbe056e3f9f164199ca9a2893fbe1d000000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

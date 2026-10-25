@@ -258,6 +258,7 @@
 			<Document>СписаниеТовара</Document>
 			<Document>ВозвратОтПокупателя</Document>
 			<Enum>ВидыНоменклатуры</Enum>
+			<Report>ОтчетОстаткиТоваров</Report>
 			<DataProcessor>УчебныеЗапросы</DataProcessor>
 			<InformationRegister>ЦеныТоваров</InformationRegister>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
