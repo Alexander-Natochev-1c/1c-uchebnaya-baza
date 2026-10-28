@@ -259,6 +259,9 @@
 			<Document>ВозвратОтПокупателя</Document>
 			<Enum>ВидыНоменклатуры</Enum>
 			<Report>ОтчетОстаткиТоваров</Report>
+			<Report>ПродажиТоваров</Report>
+			<Report>ВыручкаПоТоварам</Report>
+			<Report>ВозвратыПоКлиентам</Report>
 			<DataProcessor>УчебныеЗапросы</DataProcessor>
 			<InformationRegister>ЦеныТоваров</InformationRegister>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
