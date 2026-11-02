@@ -49,7 +49,7 @@
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
-			<DefaultObjectForm/>
+			<DefaultObjectForm>Document.ПриходТовара.Form.ФормаДокумента</DefaultObjectForm>
 			<DefaultListForm/>
 			<DefaultChoiceForm/>
 			<AuxiliaryObjectForm/>
@@ -202,6 +202,7 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Attribute>
+			<Form>ФормаДокумента</Form>
 			<TabularSection uuid="73aac55d-8c64-4081-a62d-d13d2f1f5b3c">
 				<InternalInfo>
 					<xr:GeneratedType name="DocumentTabularSection.ПриходТовара.Товары" category="TabularSection">
@@ -392,6 +393,25 @@
 					</Attribute>
 				</ChildObjects>
 			</TabularSection>
+			<Template>Печать</Template>
+			<Command uuid="ee91755b-4bdb-44ee-822a-d790627f9015">
+				<Properties>
+					<Name>Печать</Name>
+					<Synonym/>
+					<Comment/>
+					<Group>FormCommandBarImportant</Group>
+					<CommandParameterType>
+						<v8:Type>cfg:DocumentRef.ПриходТовара</v8:Type>
+					</CommandParameterType>
+					<ParameterUseMode>Multiple</ParameterUseMode>
+					<ModifiesData>false</ModifiesData>
+					<Representation>Auto</Representation>
+					<ToolTip/>
+					<Picture/>
+					<Shortcut/>
+					<OnMainServerUnavalableBehavior>Auto</OnMainServerUnavalableBehavior>
+				</Properties>
+			</Command>
 		</ChildObjects>
 	</Document>
 </MetaDataObject>
